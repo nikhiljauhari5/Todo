@@ -1,4 +1,7 @@
 # Todo
+This is Django Project 
+
+->In this project I was perform CRUD operations on the list items 
 
 To run the project you have to run the command 
 
